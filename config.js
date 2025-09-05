@@ -1,4 +1,4 @@
-exports.TOKEN = 'Nzc4MjA3MDg2NTU4ODM4Nzg1.X7On0w.CC2cRpj7WUNLOe5QmywODGOTGDA';
+exports.TOKEN = '';
 
 exports.DBL_API_KEY = '';
 
